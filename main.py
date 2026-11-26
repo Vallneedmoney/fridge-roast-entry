@@ -3,6 +3,10 @@
 
 Writes a single roast line (max 200 chars) to /output/entry.txt.
 Standard library only — the grader sandbox has no third-party packages.
+
+The line (121 chars): the fridge holds its own ice hostage until the owner
+rates its new interface five stars — one specific mechanism (firmware
+update + ice dispenser + 5-star rating), one ironic consequence, one peak.
 """
 
 import os
